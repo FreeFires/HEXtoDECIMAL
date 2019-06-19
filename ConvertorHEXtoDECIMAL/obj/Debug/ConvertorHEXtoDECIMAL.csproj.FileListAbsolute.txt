@@ -1,0 +1,9 @@
+C:\Work\Projects\HEXtoDECIMAL\ConvertorHEXtoDECIMAL\ConvertorHEXtoDECIMAL\bin\Debug\ConvertorHEXtoDECIMAL.exe
+C:\Work\Projects\HEXtoDECIMAL\ConvertorHEXtoDECIMAL\ConvertorHEXtoDECIMAL\bin\Debug\ConvertorHEXtoDECIMAL.pdb
+C:\Work\Projects\HEXtoDECIMAL\ConvertorHEXtoDECIMAL\ConvertorHEXtoDECIMAL\obj\Debug\ConvertorHEXtoDECIMAL.csprojAssemblyReference.cache
+C:\Work\Projects\HEXtoDECIMAL\ConvertorHEXtoDECIMAL\ConvertorHEXtoDECIMAL\obj\Debug\ConvertorHEXtoDECIMAL.Form1.resources
+C:\Work\Projects\HEXtoDECIMAL\ConvertorHEXtoDECIMAL\ConvertorHEXtoDECIMAL\obj\Debug\ConvertorHEXtoDECIMAL.Properties.Resources.resources
+C:\Work\Projects\HEXtoDECIMAL\ConvertorHEXtoDECIMAL\ConvertorHEXtoDECIMAL\obj\Debug\ConvertorHEXtoDECIMAL.csproj.GenerateResource.cache
+C:\Work\Projects\HEXtoDECIMAL\ConvertorHEXtoDECIMAL\ConvertorHEXtoDECIMAL\obj\Debug\ConvertorHEXtoDECIMAL.csproj.CoreCompileInputs.cache
+C:\Work\Projects\HEXtoDECIMAL\ConvertorHEXtoDECIMAL\ConvertorHEXtoDECIMAL\obj\Debug\ConvertorHEXtoDECIMAL.exe
+C:\Work\Projects\HEXtoDECIMAL\ConvertorHEXtoDECIMAL\ConvertorHEXtoDECIMAL\obj\Debug\ConvertorHEXtoDECIMAL.pdb
