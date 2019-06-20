@@ -35,9 +35,11 @@ namespace ConvertorHEXtoDECIMAL
             this.Close();
         }
 
+        private SerialPort serialPort = new SerialPort("COM2", 2400, Parity.None, 8, StopBits.One);
+
         private void BtnOpenCom_Click(object sender, EventArgs e)
         {
-            SerialPort serialPort = new SerialPort("COM2", 2400, Parity.None, 8, StopBits.One);
+            //SerialPort serialPort = new SerialPort("COM2", 2400, Parity.None, 8, StopBits.One);
             serialPort.Open();
             bool _open = true;
             
@@ -49,7 +51,9 @@ namespace ConvertorHEXtoDECIMAL
                     try
                     {
                         string massege = serialPort.ReadLine();
-                        tbHex.Text = massege;
+                        int mass = serialPort.GetHashCode();
+                        //tbHex.Text = massege;
+                        tbHex.Text = Convert.ToString(mass);
                     }
                     catch(TimeoutException)
                     {
@@ -65,6 +69,11 @@ namespace ConvertorHEXtoDECIMAL
             {
                 lbChekComPort.Text = "COM2 закритий";
             }
+        }
+
+        private void BtnCloseCom_Click(object sender, EventArgs e)
+        {
+            serialPort.Close();
         }
 
 

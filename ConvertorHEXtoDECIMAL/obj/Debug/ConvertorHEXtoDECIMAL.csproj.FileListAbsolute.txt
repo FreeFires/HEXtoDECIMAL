@@ -7,3 +7,12 @@ C:\Work\Projects\HEXtoDECIMAL\ConvertorHEXtoDECIMAL\ConvertorHEXtoDECIMAL\obj\De
 C:\Work\Projects\HEXtoDECIMAL\ConvertorHEXtoDECIMAL\ConvertorHEXtoDECIMAL\obj\Debug\ConvertorHEXtoDECIMAL.csproj.CoreCompileInputs.cache
 C:\Work\Projects\HEXtoDECIMAL\ConvertorHEXtoDECIMAL\ConvertorHEXtoDECIMAL\obj\Debug\ConvertorHEXtoDECIMAL.exe
 C:\Work\Projects\HEXtoDECIMAL\ConvertorHEXtoDECIMAL\ConvertorHEXtoDECIMAL\obj\Debug\ConvertorHEXtoDECIMAL.pdb
+D:\Projects\C#\HEXtoDECIMAL\ConvertorHEXtoDECIMAL\ConvertorHEXtoDECIMAL\bin\Debug\ConvertorHEXtoDECIMAL.exe
+D:\Projects\C#\HEXtoDECIMAL\ConvertorHEXtoDECIMAL\ConvertorHEXtoDECIMAL\bin\Debug\ConvertorHEXtoDECIMAL.pdb
+D:\Projects\C#\HEXtoDECIMAL\ConvertorHEXtoDECIMAL\ConvertorHEXtoDECIMAL\obj\Debug\ConvertorHEXtoDECIMAL.csprojAssemblyReference.cache
+D:\Projects\C#\HEXtoDECIMAL\ConvertorHEXtoDECIMAL\ConvertorHEXtoDECIMAL\obj\Debug\ConvertorHEXtoDECIMAL.Form1.resources
+D:\Projects\C#\HEXtoDECIMAL\ConvertorHEXtoDECIMAL\ConvertorHEXtoDECIMAL\obj\Debug\ConvertorHEXtoDECIMAL.Properties.Resources.resources
+D:\Projects\C#\HEXtoDECIMAL\ConvertorHEXtoDECIMAL\ConvertorHEXtoDECIMAL\obj\Debug\ConvertorHEXtoDECIMAL.csproj.GenerateResource.cache
+D:\Projects\C#\HEXtoDECIMAL\ConvertorHEXtoDECIMAL\ConvertorHEXtoDECIMAL\obj\Debug\ConvertorHEXtoDECIMAL.csproj.CoreCompileInputs.cache
+D:\Projects\C#\HEXtoDECIMAL\ConvertorHEXtoDECIMAL\ConvertorHEXtoDECIMAL\obj\Debug\ConvertorHEXtoDECIMAL.exe
+D:\Projects\C#\HEXtoDECIMAL\ConvertorHEXtoDECIMAL\ConvertorHEXtoDECIMAL\obj\Debug\ConvertorHEXtoDECIMAL.pdb
